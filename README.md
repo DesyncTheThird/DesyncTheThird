@@ -12,8 +12,6 @@
 
 <p align="center">I'm a maths student at the University of Warwick,<br/>mainly reading algebraic topology/algebraic geometry;<br/>personal interests reside in topos theory and type theory.</p>
 
-<br/>
-
 ---
 
 ### Selected works and projects:
