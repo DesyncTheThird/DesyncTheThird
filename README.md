@@ -16,17 +16,17 @@
 
 ### Selected works and projects:
 
-[Notes on Mathematics](https://desyncthethird.github.io/Reference.pdf)
+- [*Notes on Mathematics*](https://desyncthethird.github.io/Reference.pdf)
 
-[The Yoneda Lemma](https://desyncthethird.github.io/Archive/The%20Yoneda%20Lemma.pdf)
+- [*The Yoneda Lemma*](https://desyncthethird.github.io/Archive/The%20Yoneda%20Lemma.pdf)
 
-[Structural Foundations in Topoi](https://desyncthethird.github.io/Archive/Structural%20Foundations%20in%20Topoi.pdf)
+- [*Structural Foundations in Topoi*](https://desyncthethird.github.io/Archive/Structural%20Foundations%20in%20Topoi.pdf)
 
-[An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne-keymap)
+- [An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne-keymap)
 
-[An implementation of some problems from *102 Combinatorial Problems* in Lean 4](https://github.com/mgsium/102_comb_lean)
+- [An implementation of some problems from *102 Combinatorial Problems* in Lean 4](https://github.com/mgsium/102_comb_lean)
 
-[VSCode Theme](https://marketplace.visualstudio.com/items?itemName=Desync.heliotrope)
+- [*Heliotrope*, a VSCode theme](https://marketplace.visualstudio.com/items?itemName=Desync.heliotrope)
 
 ---
 
