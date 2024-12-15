@@ -30,4 +30,21 @@
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/DesyncTheThird/DesyncTheThird/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/DesyncTheThird/DesyncTheThird/output/snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/DesyncTheThird/DesyncTheThird/output/snake-dark.svg"
+  />
+</picture>
+
+---
+
 <a href="https://github.com/DesyncTheThird"><img height=30 align="center" src="https://raw.githubusercontent.com/DesyncTheThird/heliotrope/main/icon.png" alt="Heliotrope Logo" /></a>
