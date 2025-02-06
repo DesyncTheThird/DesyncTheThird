@@ -28,6 +28,7 @@
 
 - [*Heliotrope*, a VSCode theme](https://marketplace.visualstudio.com/items?itemName=Desync.heliotrope)
 
+- [The Warwick Maths Society Website](https://warwickmathssociety.com/)
 ---
 
 <picture>
