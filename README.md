@@ -22,6 +22,8 @@
 
 - [*Structural Foundations in Topoi*](https://desyncthethird.github.io/Archive/Structural%20Foundations%20in%20Topoi.pdf)
 
+- [*On Constructivism in Mathematics: I can't believe you just excluded the middle*](https://desyncthethird.github.io/Archive/Constructivism%20in%20Mathematics.pdf)
+
 - [An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne-keymap)
 
 - [An implementation of some problems from *102 Combinatorial Problems* in Lean 4](https://github.com/mgsium/102_comb_lean)
