@@ -10,7 +10,7 @@
 
 ---
 
-<p align="center">I'm a maths student at the University of Warwick,<br/>mainly reading algebraic topology/algebraic geometry;<br/>personal interests reside in topos theory and type theory.</p>
+<p align="center">I'm a PhD candidate at the <a href="https://msp.cis.strath.ac.uk/">Mathematically Structured Programming Group</a> at</br>the University of Strathclyde, specialising in type theory and category theory;</br>I have previously studied set theory, logic, and algebraic topology/geometry at Warwick.</p>
 
 ---
 
