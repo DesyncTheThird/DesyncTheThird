@@ -10,7 +10,13 @@
 
 ---
 
-<p align="center">I'm a PhD candidate at the <a href="https://msp.cis.strath.ac.uk/">Mathematically Structured Programming Group</a> at</br>the University of Strathclyde, specialising in type theory and category theory;</br>I have previously studied set theory, logic, and algebraic topology/geometry at Warwick.</p>
+<p align="center">
+    I'm a PhD candidate at the <a href="https://msp.cis.strath.ac.uk/">Mathematically Structured Programming Group</a> at
+    </br>
+    the University of Strathclyde, specialising in homotopy type theory and category theory;
+    </br>
+    I have previously studied algebraic topology, combinatorics, and set theory at Warwick.
+</p>
 
 ---
 
