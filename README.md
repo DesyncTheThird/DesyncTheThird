@@ -11,6 +11,10 @@
 ---
 
 <p align="center">
+    <img height=300 align = "center" src="https://raw.githubusercontent.com/DesyncTheThird/images/refs/heads/main/hott-uwu.png">
+</p>
+
+<p align="center">
     I'm a PhD candidate at the <a href="https://msp.cis.strath.ac.uk/">Mathematically Structured Programming Group</a> at
     </br>
     the University of Strathclyde, specialising in homotopy type theory and category theory;
