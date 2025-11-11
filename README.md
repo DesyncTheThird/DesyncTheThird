@@ -26,9 +26,12 @@
 
 ---
 
+
 ### Selected works and projects:
 
-- [*Notes on Mathematics*](https://desyncthethird.github.io/Reference.pdf)
+- [My Personal Website](https://desyncthethird.github.io)
+
+- [*Notes on Mathematics*](https://desyncthethird.github.io/Reference-Book/Reference.pdf)
 
 - [*The Yoneda Lemma*](https://desyncthethird.github.io/Archive/The%20Yoneda%20Lemma.pdf)
 
