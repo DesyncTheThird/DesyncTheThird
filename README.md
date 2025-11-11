@@ -26,10 +26,9 @@
 
 ---
 
-
 ### Selected works and projects:
 
-- [My Personal Website](https://desyncthethird.github.io)
+- [My personal website](https://desyncthethird.github.io)
 
 - [*Notes on Mathematics*](https://desyncthethird.github.io/Reference-Book/Reference.pdf)
 
@@ -39,13 +38,14 @@
 
 - [*On Constructivism in Mathematics: I can't believe you just excluded the middle*](https://desyncthethird.github.io/Archive/Constructivism%20in%20Mathematics.pdf)
 
-- [An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne-keymap)
+- [An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne\-keymap)
 
 - [An implementation of some problems from *102 Combinatorial Problems* in Lean 4](https://github.com/mgsium/102_comb_lean)
 
 - [*Heliotrope*, a VSCode theme](https://marketplace.visualstudio.com/items?itemName=Desync.heliotrope)
 
-- [The Warwick Maths Society Website](https://warwickmathssociety.com/)
+- [The Warwick Maths Society website](https://warwickmathssociety.com/)
+
 ---
 
 <picture>
