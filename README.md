@@ -12,7 +12,7 @@
 
 <p align="center">
     <a href="https://github.com/DesyncTheThird/images">
-        <img height=300 align = "center" src="https://raw.githubusercontent.com/DesyncTheThird/images/refs/heads/main/hott-uwu.svg">
+        <img height=300 align = "center" src="https://raw.githubusercontent.com/DesyncTheThird/KawaiiLogos/refs/heads/main/hott/hott.svg">
     </a>
 </p>
 
