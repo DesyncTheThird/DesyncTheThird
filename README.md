@@ -32,7 +32,7 @@
 
 - [An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne\-keymap)
 
-- [Some Kawaii Logos](https://github.com/DesyncTheThird/KawaiiLogos)
+- [Programming and Maths Stickers](https://github.com/DesyncTheThird/KawaiiLogos)
 
 - [*Notes on Mathematics*](https://desyncthethird.github.io/Reference-Book/Reference.pdf)
 
