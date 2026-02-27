@@ -19,7 +19,7 @@
 <p align="center">
     I'm a PhD candidate at the <a href="https://msp.cis.strath.ac.uk/">Mathematically Structured Programming Group</a> at
     </br>
-    the University of Strathclyde, specialising in homotopy type theory and category theory;
+    the University of Strathclyde, researching homotopy type theory and higher category theory;
     </br>
     I have previously studied algebraic topology, combinatorics, and set theory at Warwick.
 </p>
@@ -30,7 +30,7 @@
 
 - [My personal website](https://desyncthethird.github.io)
 
-- [An ergonomic 40% keymap for writing `LaTeX` and `C` code](https://github.com/DesyncTheThird/corne\-keymap)
+- [An ergonomic 40% keymap for writing `LaTeX`, `C`, and `Agda` code](https://github.com/DesyncTheThird/corne\-keymap)
 
 - [Programming and Maths Stickers](https://github.com/DesyncTheThird/KawaiiLogos)
 
