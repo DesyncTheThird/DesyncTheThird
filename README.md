@@ -28,17 +28,17 @@
 
 ### Selected works and projects:
 
-- [My personal website](https://desyncthethird.github.io)
+- [My personal website](https://desyn.cc)
 
 - [An ergonomic 40% keymap for writing `LaTeX`, `C`, and `Agda` code](https://github.com/DesyncTheThird/corne\-keymap)
 
 - [Programming and Maths Stickers](https://github.com/DesyncTheThird/KawaiiLogos)
 
-- [*Notes on Mathematics*](https://desyncthethird.github.io/Reference-Book/Reference.pdf)
+- [*Notes on Mathematics*](https://cokernelpanic.com/Reference-Book/Reference.pdf)
 
-- [*The Yoneda Lemma*](https://desyncthethird.github.io/Archive/The%20Yoneda%20Lemma.pdf)
+- [*The Yoneda Lemma*](https://cokernelpanic.com/Archive/The%20Yoneda%20Lemma.pdf)
 
-- [*Structural Foundations in Topoi*](https://desyncthethird.github.io/Archive/Structural%20Foundations%20in%20Topoi.pdf)
+- [*Structural Foundations in Topoi*](https://cokernelpanic.com/Archive/Structural%20Foundations%20in%20Topoi.pdf)
 
 - [The Warwick Maths Society website](https://warwickmathssociety.com/)
 
